@@ -1,0 +1,48 @@
+2016-11-04 17:34:13,777 INFO daemonizing the supervisord process
+2016-11-04 17:34:13,778 INFO supervisord started with pid 4332
+2016-11-04 17:34:14,782 INFO spawned: 'tornado-0' with pid 4333
+2016-11-04 17:34:14,788 INFO exited: tornado-0 (exit status 127; not expected)
+2016-11-04 17:34:15,792 INFO spawned: 'tornado-0' with pid 4334
+2016-11-04 17:34:15,797 INFO exited: tornado-0 (exit status 127; not expected)
+2016-11-04 17:34:17,801 INFO spawned: 'tornado-0' with pid 4335
+2016-11-04 17:34:17,806 INFO exited: tornado-0 (exit status 127; not expected)
+2016-11-04 17:34:20,811 INFO spawned: 'tornado-0' with pid 4338
+2016-11-04 17:34:20,817 INFO exited: tornado-0 (exit status 127; not expected)
+2016-11-04 17:34:21,818 INFO gave up: tornado-0 entered FATAL state, too many start retries too quickly
+2016-11-04 17:35:45,979 INFO daemonizing the supervisord process
+2016-11-04 17:35:45,980 INFO supervisord started with pid 4364
+2016-11-04 17:35:46,984 INFO spawned: 'tornado-0' with pid 4365
+2016-11-04 17:35:46,989 INFO exited: tornado-0 (exit status 127; not expected)
+2016-11-04 17:35:47,992 INFO spawned: 'tornado-0' with pid 4366
+2016-11-04 17:35:47,997 INFO exited: tornado-0 (exit status 127; not expected)
+2016-11-04 17:35:50,001 INFO spawned: 'tornado-0' with pid 4367
+2016-11-04 17:35:50,007 INFO exited: tornado-0 (exit status 127; not expected)
+2016-11-04 17:35:53,013 INFO spawned: 'tornado-0' with pid 4371
+2016-11-04 17:35:53,018 INFO exited: tornado-0 (exit status 127; not expected)
+2016-11-04 17:35:54,019 INFO gave up: tornado-0 entered FATAL state, too many start retries too quickly
+2016-11-04 17:39:36,928 INFO daemonizing the supervisord process
+2016-11-04 17:39:36,929 INFO supervisord started with pid 4429
+2016-11-04 17:39:37,933 INFO spawned: 'tornado-0' with pid 4430
+2016-11-04 17:39:37,939 INFO exited: tornado-0 (exit status 127; not expected)
+2016-11-04 17:39:38,942 INFO spawned: 'tornado-0' with pid 4431
+2016-11-04 17:39:38,946 INFO exited: tornado-0 (exit status 127; not expected)
+2016-11-04 17:39:40,951 INFO spawned: 'tornado-0' with pid 4432
+2016-11-04 17:39:40,956 INFO exited: tornado-0 (exit status 127; not expected)
+2016-11-04 17:39:43,961 INFO spawned: 'tornado-0' with pid 4435
+2016-11-04 17:39:43,966 INFO exited: tornado-0 (exit status 127; not expected)
+2016-11-04 17:39:44,967 INFO gave up: tornado-0 entered FATAL state, too many start retries too quickly
+2016-11-04 17:50:30,583 INFO daemonizing the supervisord process
+2016-11-04 17:50:30,585 INFO supervisord started with pid 4820
+2016-11-04 17:50:31,588 INFO spawned: 'tornado-0' with pid 4821
+2016-11-04 17:50:31,594 INFO exited: tornado-0 (exit status 127; not expected)
+2016-11-04 17:50:32,597 INFO spawned: 'tornado-0' with pid 4823
+2016-11-04 17:50:32,602 INFO exited: tornado-0 (exit status 127; not expected)
+2016-11-04 17:50:34,606 INFO spawned: 'tornado-0' with pid 4824
+2016-11-04 17:50:34,611 INFO exited: tornado-0 (exit status 127; not expected)
+2016-11-04 17:50:37,616 INFO spawned: 'tornado-0' with pid 4827
+2016-11-04 17:50:37,623 INFO exited: tornado-0 (exit status 127; not expected)
+2016-11-04 17:50:38,624 INFO gave up: tornado-0 entered FATAL state, too many start retries too quickly
+2016-11-04 18:06:50,432 WARN received SIGTERM indicating exit request
+2016-11-04 18:06:50,433 WARN received SIGTERM indicating exit request
+2016-11-04 18:06:50,433 WARN received SIGTERM indicating exit request
+2016-11-04 18:06:50,433 WARN received SIGTERM indicating exit request

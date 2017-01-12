@@ -1,0 +1,27 @@
+nohup: multipthreadTest.py: No such file or directory
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): news.baidu.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /n?m=rddata&v=hot_word&type=0&date= HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): news.baidu.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /n?m=rddata&v=hot_word&type=1&date= HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): news.baidu.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /n?m=rddata&v=hot_word&type=2&date= HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): news.baidu.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /n?m=rddata&v=hot_word&type=3&date= HTTP/1.1" 200 None
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:52453/wd/hub/session {"desiredCapabilities": {"browserName": "phantomjs", "version": "", "javascriptEnabled": true, "marionette": true, "platform": "ANY"}, "requiredCapabilities": {}}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:52453/wd/hub/session/4df74460-a33a-11e6-aa0b-bbc47e6421af/url {"url": "http://weixin.sogou.com", "sessionId": "4df74460-a33a-11e6-aa0b-bbc47e6421af"}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): news.baidu.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /n?m=rddata&v=hot_word&type=4&date= HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): news.baidu.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /n?m=rddata&v=hot_word&type=5&date= HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): news.baidu.com
+Traceback (most recent call last):
+  File "multipthreadTest.py", line 79, in <module>
+    main()
+  File "multipthreadTest.py", line 40, in main
+    queue.join()
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/queue.py", line 86, in join
+    self.all_tasks_done.wait()
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/threading.py", line 290, in wait
+    waiter.acquire()
+KeyboardInterrupt
